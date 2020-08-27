@@ -10,7 +10,7 @@
     "less": "less-watch-compiler",
     "public": "concurrently \"npm run dev\" \"npm run less\""
   },
-  "author": "takkar <www.shtakkar@gmail.com>",
+  "author": "BadBoros",
   "license": "ISC",
   "dependencies": {
     "animate-components": "^1.4.2",
